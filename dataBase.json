@@ -1,0 +1,10 @@
+{
+ "posts":[
+  {
+   "name": "Andrew", "age":"25"
+  },
+  {
+   "name": "Sarah", "age":"28"
+  }
+ ]
+}
